@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BusinessCardApp</string>
+    <string name="my_phone_number">+84 999999999</string>
+    <string name="twitter_handle">twitter.com</string>
+    <string name="my_email">hogiabao7725@gmail.com</string>
+    <string name="my_name">Ho Gia Bao</string>
+    <string name="my_title">Android Developer</string>
+</resources>
